@@ -12,3 +12,4 @@
 * [[jCenter] : 新版Bintray网站发布Library到JCenter](https://github.com/Werb/dev-note/blob/master/%5BjCenter%5D%E6%96%B0%E7%89%88Bintray%E7%BD%91%E7%AB%99%E5%8F%91%E5%B8%83Library%E5%88%B0JCenter.md)
 * [[Android] : 由AppCompat主题中设置的colorAccent颜色对CheckBox无效问题想到的 - 浅析LayoutInflater](http://www.jianshu.com/p/406ed4b7259f)
 * [[Android] : Android Fresco实现图片毛玻璃效果](http://blog.csdn.net/yaphetzhao/article/details/50847733)]
+* [[Node.js] : Node入门](http://www.nodebeginner.org/index-zh-cn.html)
