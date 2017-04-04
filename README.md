@@ -13,3 +13,4 @@
 * [[Android] : 由AppCompat主题中设置的colorAccent颜色对CheckBox无效问题想到的 - 浅析LayoutInflater](http://www.jianshu.com/p/406ed4b7259f)
 * [[Android] : Android Fresco实现图片毛玻璃效果](http://blog.csdn.net/yaphetzhao/article/details/50847733)]
 * [[Node.js] : Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+* [[Android] : Android -- ViewPager滑动背景渐变](http://www.cnblogs.com/yydcdut/p/4138745.html)
