@@ -15,3 +15,4 @@
 * [[Node.js] : Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 * [[Android] : Android -- ViewPager滑动背景渐变](http://www.cnblogs.com/yydcdut/p/4138745.html)
 * [[Android] : getDimension()、getDimensionPixelSize()和getDimensionPixelOffset()的区别](http://www.jianshu.com/p/282032797637)
+* [[Android] : Bitmap too large to be uploaded into a texture解决方案](http://blog.csdn.net/wujian543/article/details/45075357)
