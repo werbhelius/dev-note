@@ -16,3 +16,5 @@
 * [[Android] : Android -- ViewPager滑动背景渐变](http://www.cnblogs.com/yydcdut/p/4138745.html)
 * [[Android] : getDimension()、getDimensionPixelSize()和getDimensionPixelOffset()的区别](http://www.jianshu.com/p/282032797637)
 * [[Android] : Bitmap too large to be uploaded into a texture解决方案](http://blog.csdn.net/wujian543/article/details/45075357)
+* [[Android] : 聊一聊Android 6.0的运行时权限 ](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/index.html)
+* [[cURL] : Linux curl命令详解](http://www.cnblogs.com/duhuo/p/5695256.html)
