@@ -18,3 +18,4 @@
 * [[Android] : Bitmap too large to be uploaded into a texture解决方案](http://blog.csdn.net/wujian543/article/details/45075357)
 * [[Android] : 聊一聊Android 6.0的运行时权限 ](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/index.html)
 * [[cURL] : Linux curl命令详解](http://www.cnblogs.com/duhuo/p/5695256.html)
+* [[Android] : MPAndroidChart 教程：概述](http://blog.csdn.net/u014136472/article/details/50273309)
