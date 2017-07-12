@@ -30,3 +30,4 @@
 * [[RxJava2] : 给初学者的RxJava2.0教程(九)](http://www.jianshu.com/p/36e0f7f43a51)
 * [[Android] : SimpleDateFormat 参数](http://blog.sina.com.cn/s/blog_530fe9870100l6un.html)
 * [[Kotlin] : Kotlin入门第二课：集合操作](http://www.cnblogs.com/tgyf/p/6892551.html?utm_source=itdadao&utm_medium=referral)
+* [[Android]: RecyclerView：IndexOutOfBoundsException Inconsistency detected. Invalid item position](https://drakeet.me/recyclerview-inconsistency-detected-invalid-item/)
