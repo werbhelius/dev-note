@@ -34,3 +34,4 @@
 * [[Android] : 一次性搞清楚equals和hashCode](http://www.cnblogs.com/lulipro/p/5628750.html)
 * [[Kotlin] : 图文并茂解释Kotlin == 和 === 之间的差异](https://my.oschina.net/xiaolei123/blog/907629)
 * [[Android] : Android Fragment＋ViewPager 组合，一些你不可不知的注意事项](http://yifeng.studio/2016/12/23/android-fragment-and-viewpager-attentions/)
+* [[Android] : MaterialDesign之SearchView全面解锁](http://www.jianshu.com/p/7c1e78e91506)
