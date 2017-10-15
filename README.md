@@ -35,3 +35,4 @@
 * [[Kotlin] : 图文并茂解释Kotlin == 和 === 之间的差异](https://my.oschina.net/xiaolei123/blog/907629)
 * [[Android] : Android Fragment＋ViewPager 组合，一些你不可不知的注意事项](http://yifeng.studio/2016/12/23/android-fragment-and-viewpager-attentions/)
 * [[Android] : MaterialDesign之SearchView全面解锁](http://www.jianshu.com/p/7c1e78e91506)
+* [[Android] : Glide 4.0.0 RC0 官方说明](https://juejin.im/entry/5924f28eda2f60005d7725b2)
