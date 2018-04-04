@@ -36,3 +36,4 @@
 * [[Android] : Android Fragment＋ViewPager 组合，一些你不可不知的注意事项](http://yifeng.studio/2016/12/23/android-fragment-and-viewpager-attentions/)
 * [[Android] : MaterialDesign之SearchView全面解锁](http://www.jianshu.com/p/7c1e78e91506)
 * [[Android] : Glide 4.0.0 RC0 官方说明](https://juejin.im/entry/5924f28eda2f60005d7725b2)
+* [[Android] : Android ImageView 的 ScaleType 属性](https://github.com/Werb/dev-note/blob/master/%5BAndroid%5D%20ImageView%20%E7%9A%84%20ScaleType%20%E5%B1%9E%E6%80%A7.md)
